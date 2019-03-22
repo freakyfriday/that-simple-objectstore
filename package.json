@@ -1,7 +1,7 @@
 {
-    "name": "@freakyfriday/that-simple-objectstore",
+    "name": "that-simple-objectstore-extended",
     "description": "A simple objectstore interface for That Simple Model",
-    "version": "1.1.1",
+    "version": "1.0.9",
     "license": "MIT",
     "publishConfig": {
         "access": "public"

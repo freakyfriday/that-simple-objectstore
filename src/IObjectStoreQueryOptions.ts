@@ -8,9 +8,8 @@ export interface IObjectStoreQueryOptions<T extends IModel> {
 	filter?: (item: T) => boolean
 	continuationToken?: any
 	continuationCount?: number
-	limit?: number,
-	indexAsc? : boolean
-
+	limit?: number
+	indexAsc?: boolean
 }
 
 export class ExampleObjectStoreQueryOptions {}
